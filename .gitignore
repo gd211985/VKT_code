@@ -1,0 +1,12 @@
+*.pt
+*.pth
+*.pkl
+*.zip
+*.tar
+*.tar.gz
+*.gz
+__pycache__/
+.ipynb_checkpoints/
+VKT_Datasets/
+data/
+trained_models_backup.tar.gz
